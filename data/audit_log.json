@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2025-10-13 14:41:48",
+    "user": "admin",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 14:42:22",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 14:43:31",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 21:49:41",
+    "user": "admin",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 21:50:40",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 21:53:27",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 22:06:56",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 22:13:13",
+    "user": "audit",
+    "action": "login",
+    "status": "failed"
+  },
+  {
+    "timestamp": "2025-10-13 22:13:47",
+    "user": "auditor",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 22:16:20",
+    "user": "cloud",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-13 22:17:43",
+    "user": "admin",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-14 18:54:38",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-14 19:26:06",
+    "user": "auditor",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-14 19:30:08",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-14 19:44:41",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-10-14 19:59:47",
+    "user": "company",
+    "action": "login",
+    "status": "success"
+  }
+]
