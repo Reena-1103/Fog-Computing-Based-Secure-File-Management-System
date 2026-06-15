@@ -1,10 +1,10 @@
-🔐 Fog Computing Based Secure File Management System Using AES Encryption
-Overview
+###  Fog Computing Based Secure File Management System Using AES Encryption
+## Overview
 
 The Fog Computing Based Secure File Management System is a Python-based desktop application developed to provide secure and efficient file management. The system integrates Fog Computing, AES (Advanced Encryption Standard) Encryption, Role-Based Access Control (RBAC), and Audit Logging to ensure confidentiality, integrity, and secure access to files.
 Unlike traditional cloud storage systems, this project performs processing at the fog layer, reducing latency and improving security.
 
- Features
+ ## Features
  Secure User Authentication
  Role-Based Access Control (Admin, Company, Cloud, Auditor)
  AES File Encryption
@@ -16,7 +16,7 @@ Unlike traditional cloud storage systems, this project performs processing at th
  Low-Latency Processing using Fog Computing
 User-Friendly GUI using Tkinter
 
-Technologies Used
+## Technologies Used
 Python
 Tkinter
 AES Encryption (PyCryptodome)
@@ -24,7 +24,7 @@ JSON
 File Handling
 Fog Computing Concepts
 
-Project Structure
+## Project Structure
 Fog-Computing-Based-Secure-File-Management-System
 │
 ├── core/
@@ -34,7 +34,7 @@ Fog-Computing-Based-Secure-File-Management-System
 ├── requirements.txt
 └── README.md
 
-▶️ How to Run
+## ▶️ How to Run
 Clone this repository.
 
 Install the required packages:
@@ -45,14 +45,14 @@ Run the application:
 
 python main.py
 
-🔒 Security Features
+## 🔒 Security Features
 AES Encryption for secure file storage
 Role-Based Access Control (RBAC)
 Password-Protected File Decryption
 Audit Logging for user activities
 Secure Authentication Mechanism
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Cloud Storage Integration
 Multi-Factor Authentication (MFA)
 Email Notifications
@@ -60,12 +60,12 @@ Digital Signature Verification
 Biometric Authentication
 Mobile Application Support
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Reena Yalamandala
 Department of Data Science
 Vignan's Institute of Management and Technology for Women
 
- Project Status
+ ## Project Status
 
 Completed as a Final Year B.Tech Major Project.
