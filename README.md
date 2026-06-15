@@ -5,34 +5,34 @@ The Fog Computing Based Secure File Management System is a Python-based desktop 
 Unlike traditional cloud storage systems, this project performs processing at the fog layer, reducing latency and improving security.
 
  ## Features
- Secure User Authentication
- Role-Based Access Control (Admin, Company, Cloud, Auditor)
- AES File Encryption
- Secure File Decryption
- File Upload
- File Download
- View Stored Files
- Audit Log Generation
- Low-Latency Processing using Fog Computing
-User-Friendly GUI using Tkinter
+ - Secure User Authentication
+ - Role-Based Access Control (Admin, Company, Cloud, Auditor)
+ - AES File Encryption
+ - Secure File Decryption
+ - File Upload
+ - File Download
+ - View Stored Files
+ - Audit Log Generation
+ - Low-Latency Processing using Fog Computing
+ - User-Friendly GUI using Tkinter
 
 ## Technologies Used
-Python
-Tkinter
-AES Encryption (PyCryptodome)
-JSON
-File Handling
-Fog Computing Concepts
+- Python
+- Tkinter
+- AES Encryption (PyCryptodome)
+- JSON
+- File Handling
+- Fog Computing Concepts
 
 ## Project Structure
-Fog-Computing-Based-Secure-File-Management-System
-│
-├── core/
-├── data/
-├── ui/
-├── main.py
-├── requirements.txt
-└── README.md
+- Fog-Computing-Based-Secure-File-Management-System
+- │
+- ├── core/
+- ├── data/
+- ├── ui/
+- ├── main.py
+- ├── requirements.txt
+- └── README.md
 
 ## ▶️ How to Run
 Clone this repository.
