@@ -27,23 +27,23 @@ Unlike traditional cloud storage systems, this project performs processing at th
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/loginpage.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard%20page.png)
 
 ### Upload File
 
-![Upload File](screenshots/upload.png)
+![Upload File](screenshots/Upload%20file.png)
 
 ### View Files
 
-![View Files](screenshots/viewfiles.png)
+![View Files](screenshots/View%20Files.png)
 
 ### Download / Decrypt File
 
-![Download](screenshots/download.png)
+![Download File](screenshots/Download%20file.png)
 
 ## 🛠 Technologies Used
 
