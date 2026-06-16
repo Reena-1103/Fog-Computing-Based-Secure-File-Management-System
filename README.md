@@ -23,6 +23,28 @@ Unlike traditional cloud storage systems, this project performs processing at th
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Upload File
+
+![Upload File](screenshots/upload.png)
+
+### View Files
+
+![View Files](screenshots/viewfiles.png)
+
+### Download / Decrypt File
+
+![Download](screenshots/download.png)
+
 ## 🛠 Technologies Used
 
 - Python
